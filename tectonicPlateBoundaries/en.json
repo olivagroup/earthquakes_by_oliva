@@ -27,10 +27,7 @@
     "sourceBoundaryName": "Australian:Sunda",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 50.1457333103253,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1133_1",
@@ -60,10 +57,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 41.60722751650947,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_219_1",
@@ -93,10 +87,7 @@
     "sourceBoundaryName": "North American:Pacific",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 31.78428972575601,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_930_1",
@@ -126,10 +117,7 @@
     "sourceBoundaryName": "South American:Nazca",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 24.496836387222658,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_92_1",
@@ -159,10 +147,7 @@
     "sourceBoundaryName": "North American:Pacific",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 36.001422553907545,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_334_1",
@@ -192,10 +177,7 @@
     "sourceBoundaryName": "African:Arabian",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 18.729471258730317,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1134_1",
@@ -225,10 +207,7 @@
     "sourceBoundaryName": "Australian:Sunda",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 16.89587127892964,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_403_1",
@@ -258,10 +237,7 @@
     "sourceBoundaryName": "Pacific:Philippine",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 16.62516234236967,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_380_1",
@@ -291,10 +267,7 @@
     "sourceBoundaryName": "North American:Cocos",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 15.778733059863598,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_638_1",
@@ -324,10 +297,7 @@
     "sourceBoundaryName": "South American:Nazca",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 14.485533499094887,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1150_1",
@@ -357,10 +327,7 @@
     "sourceBoundaryName": "Eurasian:Philippine",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 14.311779868433812,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_855_1",
@@ -390,10 +357,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 14.301949200834434,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_151_1",
@@ -423,10 +387,7 @@
     "sourceBoundaryName": "North America:Juan de Fuca",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 14.06904848981583,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_37_1",
@@ -456,10 +417,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 19.414410759610192,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_693_1",
@@ -489,10 +447,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 12.45446766019602,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1136_1",
@@ -522,10 +477,7 @@
     "sourceBoundaryName": "Africa:Eurasia",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 14.142182294767142,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_550_1",
@@ -555,10 +507,7 @@
     "sourceBoundaryName": "South American:Nazca",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 11.560139892753437,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1181_1",
@@ -588,10 +537,7 @@
     "sourceBoundaryName": null,
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 11.018872370130461,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_411_1",
@@ -621,10 +567,7 @@
     "sourceBoundaryName": "South American:Caribbean",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 10.630802266747466,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_21_1",
@@ -654,10 +597,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 57.13234955241818,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1166_1",
@@ -687,10 +627,7 @@
     "sourceBoundaryName": "Eurasia:Anatolia Block",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 13.453064150257708,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1157_1",
@@ -720,10 +657,7 @@
     "sourceBoundaryName": "Eurasian:Arabian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 11.126787152729374,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_701_1",
@@ -753,10 +687,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 10.222631702480827,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_283_1",
@@ -786,10 +717,7 @@
     "sourceBoundaryName": "Eurasian:Philippine",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 10.634956718149366,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1144_1",
@@ -819,10 +747,7 @@
     "sourceBoundaryName": "Eurasian:Indian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 11.177659182090634,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_279_1",
@@ -852,10 +777,7 @@
     "sourceBoundaryName": "Pacific:Philippine",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 10.155777030639957,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1135_1",
@@ -885,10 +807,7 @@
     "sourceBoundaryName": "Australian:Sunda",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 9.647503270890704,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1062_1",
@@ -918,10 +837,7 @@
     "sourceBoundaryName": "Antarctica:Scotia",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 14.004399850128424,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_847_1",
@@ -951,10 +867,7 @@
     "sourceBoundaryName": "Antarctic:Nazca",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 11.459353914904096,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_22_1",
@@ -984,10 +897,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 18.375763725046873,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1165_1",
@@ -1017,10 +927,7 @@
     "sourceBoundaryName": "Eurasia",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 10.269554720042278,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_527_1",
@@ -1050,10 +957,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 8.238665247838837,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1121_1",
@@ -1083,10 +987,7 @@
     "sourceBoundaryName": "Australia:Pacific",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 8.12036933740426,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_683_1",
@@ -1116,10 +1017,7 @@
     "sourceBoundaryName": "South American:Nazca",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 8.257123126366912,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_221_1",
@@ -1149,10 +1047,7 @@
     "sourceBoundaryName": "Eurasian:African",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 9.182987636553888,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_93_1",
@@ -1182,10 +1077,7 @@
     "sourceBoundaryName": "North American:Pacific",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 11.550122375118365,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1074_1",
@@ -1215,10 +1107,7 @@
     "sourceBoundaryName": "South America:Scotia",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 9.531806045394395,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1164_1",
@@ -1248,10 +1137,7 @@
     "sourceBoundaryName": "Africa:Eurasia",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 7.89437814602524,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1162_1",
@@ -1281,10 +1167,7 @@
     "sourceBoundaryName": "Africa:Eurasia",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 8.294257654348122,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1153_1",
@@ -1314,10 +1197,7 @@
     "sourceBoundaryName": "North American:Pacific",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 7.864523803691927,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_609_1",
@@ -1347,10 +1227,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 7.0465277415635805,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1017_1",
@@ -1380,10 +1257,7 @@
     "sourceBoundaryName": "Scotia:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 10.997760169686988,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_238_1",
@@ -1413,10 +1287,7 @@
     "sourceBoundaryName": "Eurasian:Philippine",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 7.600034925438073,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1030_1",
@@ -1446,10 +1317,7 @@
     "sourceBoundaryName": "South America:Scotia",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 10.746484492203871,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1126_1",
@@ -1479,10 +1347,7 @@
     "sourceBoundaryName": "Eurasian:Arabian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 7.245507481042145,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_987_1",
@@ -1512,10 +1377,7 @@
     "sourceBoundaryName": "Antarctica:South American",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 6.76865629950353,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_918_1",
@@ -1545,10 +1407,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 8.29463053908461,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1143_1",
@@ -1578,10 +1437,7 @@
     "sourceBoundaryName": "Eurasian:Indian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 7.036972986269774,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_410_1",
@@ -1611,10 +1467,7 @@
     "sourceBoundaryName": "South American:Caribbean",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 6.378648842257678,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_421_1",
@@ -1644,10 +1497,7 @@
     "sourceBoundaryName": "Pacific:Philippine",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 6.117288700098917,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_907_1",
@@ -1677,10 +1527,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 8.303771070948402,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_448_1",
@@ -1710,10 +1557,7 @@
     "sourceBoundaryName": "Pacific:Philippine",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 5.830725777516713,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_585_1",
@@ -1743,10 +1587,7 @@
     "sourceBoundaryName": "Australia:Pacific",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 5.819437590730607,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_314_1",
@@ -1776,10 +1617,7 @@
     "sourceBoundaryName": "North American:Caribbean",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 6.082184575828611,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_973_1",
@@ -1809,10 +1647,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 6.4259260912315,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_55_1",
@@ -1842,10 +1677,7 @@
     "sourceBoundaryName": "North American:Pacific",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 9.347605237889333,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1039_1",
@@ -1875,10 +1707,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 9.212946771285306,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_922_1",
@@ -1908,10 +1737,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 7.18058963444104,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_551_1",
@@ -1941,10 +1767,7 @@
     "sourceBoundaryName": "Australia:Pacific",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 5.591058891432661,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_531_1",
@@ -1974,10 +1797,7 @@
     "sourceBoundaryName": "Pacific:Australia",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 5.43766252392806,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_929_1",
@@ -2007,10 +1827,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 5.479278860867913,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_976_1",
@@ -2040,10 +1857,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 8.198320094398673,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_333_1",
@@ -2073,10 +1887,7 @@
     "sourceBoundaryName": "North American:Caribbean",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 5.520813401903231,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_512_1",
@@ -2106,10 +1917,7 @@
     "sourceBoundaryName": "Nazca:Cocos",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 5.28485472944395,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1158_1",
@@ -2139,10 +1947,7 @@
     "sourceBoundaryName": "Eurasian:Arabian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 5.924310370993109,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_321_1",
@@ -2172,10 +1977,7 @@
     "sourceBoundaryName": "North American:Caribbean",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 5.486516522640708,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1127_1",
@@ -2205,10 +2007,7 @@
     "sourceBoundaryName": "Philippine:Sunda",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 5.184443802916364,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_82_1",
@@ -2238,10 +2037,7 @@
     "sourceBoundaryName": "North American:Pacific",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 5.851773417314258,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1142_1",
@@ -2271,10 +2067,7 @@
     "sourceBoundaryName": "Eurasian:Indian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 5.342304781561931,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_409_1",
@@ -2304,10 +2097,7 @@
     "sourceBoundaryName": "Cocos:Caribbean",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 4.955604426512028,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_546_1",
@@ -2337,10 +2127,7 @@
     "sourceBoundaryName": "Pacific:Australia",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 4.82334544845846,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_440_1",
@@ -2370,10 +2157,7 @@
     "sourceBoundaryName": "Cocos:Caribbean",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 4.830543117240066,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1105_1",
@@ -2403,10 +2187,7 @@
     "sourceBoundaryName": "Antarctic:Scotia",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 9.299416712213771,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1063_1",
@@ -2436,10 +2217,7 @@
     "sourceBoundaryName": "South American:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 8.981780786869558,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_459_1",
@@ -2469,10 +2247,7 @@
     "sourceBoundaryName": "Pacific:Cocos",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 4.692332484485341,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1006_1",
@@ -2502,10 +2277,7 @@
     "sourceBoundaryName": "South America:Scotia",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 7.380769026643976,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1160_1",
@@ -2535,10 +2307,7 @@
     "sourceBoundaryName": "Australian:Sunda",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 4.5302378530376375,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_951_1",
@@ -2568,10 +2337,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 6.4007025426647735,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1090_1",
@@ -2601,10 +2367,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 5.714037871322942,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1077_1",
@@ -2634,10 +2397,7 @@
     "sourceBoundaryName": "Antarctic:Scotia",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 8.85317353073443,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_335_1",
@@ -2667,10 +2427,7 @@
     "sourceBoundaryName": "Indian:Arabian",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 4.4349455392017045,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1011_1",
@@ -2700,10 +2457,7 @@
     "sourceBoundaryName": "South America:Scotia",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 7.277419621368045,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1119_1",
@@ -2733,10 +2487,7 @@
     "sourceBoundaryName": "Philippine:Sunda",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 4.297753518064266,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_467_1",
@@ -2766,10 +2517,7 @@
     "sourceBoundaryName": "Nazca:Cocos",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 4.2533336198058915,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_964_1",
@@ -2799,10 +2547,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 4.253628468214704,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1023_1",
@@ -2832,10 +2577,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 6.511207293019148,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_995_1",
@@ -2865,10 +2607,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 4.35348733240556,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1004_1",
@@ -2898,10 +2637,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 4.911844085507937,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_978_1",
@@ -2931,10 +2667,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 5.940875607720962,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_994_1",
@@ -2964,10 +2697,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 4.381695003576302,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1131_1",
@@ -2997,10 +2727,7 @@
     "sourceBoundaryName": "North American:Caribbean",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.8912719685984807,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_933_1",
@@ -3030,10 +2757,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.870380253644659,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1148_1",
@@ -3063,10 +2787,7 @@
     "sourceBoundaryName": "Eurasian:African",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 4.152370943729123,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_256_1",
@@ -3096,10 +2817,7 @@
     "sourceBoundaryName": "African:Arabian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.68015184060677,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1149_1",
@@ -3129,10 +2847,7 @@
     "sourceBoundaryName": "Philippine:Sunda",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 3.6516828593380053,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_294_1",
@@ -3162,10 +2877,7 @@
     "sourceBoundaryName": "Philippine:Sunda",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 3.644472362033651,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_322_1",
@@ -3195,10 +2907,7 @@
     "sourceBoundaryName": "North American:Cocos",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 3.617097146883906,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_289_1",
@@ -3228,10 +2937,7 @@
     "sourceBoundaryName": "Indian:Arabian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.702396013191313,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_401_1",
@@ -3261,10 +2967,7 @@
     "sourceBoundaryName": "Pacific:Cocos",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.5125653912191677,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_513_1",
@@ -3294,10 +2997,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.465461029252053,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_628_1",
@@ -3327,10 +3027,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 3.4700354848902935,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_230_1",
@@ -3360,10 +3057,7 @@
     "sourceBoundaryName": "African:Arabian",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 3.4906683528494726,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1174_1",
@@ -3393,10 +3087,7 @@
     "sourceBoundaryName": "Eurasian:African",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.8923974190523025,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1145_1",
@@ -3426,10 +3117,7 @@
     "sourceBoundaryName": "Eurasian:Indian",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 3.5676675131301687,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1178_1",
@@ -3459,10 +3147,7 @@
     "sourceBoundaryName": null,
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 3.62898782036423,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_908_1",
@@ -3492,10 +3177,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.3155541522517087,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1097_1",
@@ -3525,10 +3207,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 4.164329660787795,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1083_1",
@@ -3558,10 +3237,7 @@
     "sourceBoundaryName": "South American:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 6.514605545825462,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_5_1",
@@ -3591,10 +3267,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 36.55793671440972,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_135_1",
@@ -3624,10 +3297,7 @@
     "sourceBoundaryName": "Pacific:Juan de Fuca",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 4.1628411243648085,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_194_1",
@@ -3657,10 +3327,7 @@
     "sourceBoundaryName": "Eurasian:African",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.9072499766026407,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_480_1",
@@ -3690,10 +3357,7 @@
     "sourceBoundaryName": "Nazca:Cocos",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.1237422771000585,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_417_1",
@@ -3723,10 +3387,7 @@
     "sourceBoundaryName": "African:Indian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.0720565035113547,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_685_1",
@@ -3756,10 +3417,7 @@
     "sourceBoundaryName": "Pacific:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.0777401330581164,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1138_1",
@@ -3789,10 +3447,7 @@
     "sourceBoundaryName": "Eurasian:Indian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.110369986640433,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1111_1",
@@ -3822,10 +3477,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 4.963243036429827,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_181_1",
@@ -3855,10 +3507,7 @@
     "sourceBoundaryName": "Eurasian:Arabian",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 3.5153936134455592,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_593_1",
@@ -3888,10 +3537,7 @@
     "sourceBoundaryName": "Pacific:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.9752502002067613,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_746_1",
@@ -3921,10 +3567,7 @@
     "sourceBoundaryName": "Pacific:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.185862752589233,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1049_1",
@@ -3954,10 +3597,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 5.037291837652845,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_307_1",
@@ -3987,10 +3627,7 @@
     "sourceBoundaryName": "North American:Caribbean",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.1502765295997133,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_946_1",
@@ -4020,10 +3657,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 4.0536791266830114,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1058_1",
@@ -4053,10 +3687,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.047405730376082,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_970_1",
@@ -4086,10 +3717,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 4.234288062629606,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_339_1",
@@ -4119,10 +3747,7 @@
     "sourceBoundaryName": "Pacific:Cocos",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.8825204082651927,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_200_1",
@@ -4152,10 +3777,7 @@
     "sourceBoundaryName": "Eurasian:African",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.3912013323622254,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_49_1",
@@ -4185,10 +3807,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 4.171524546447122,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1112_1",
@@ -4218,10 +3837,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 4.175827691588427,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1053_1",
@@ -4251,10 +3867,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 4.708089133490409,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_408_1",
@@ -4284,10 +3897,7 @@
     "sourceBoundaryName": "South American:Caribbean",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.855553618899442,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_406_1",
@@ -4317,10 +3927,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.837467786901649,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_218_1",
@@ -4350,10 +3957,7 @@
     "sourceBoundaryName": "Eurasian:African",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 3.261615936573081,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1092_1",
@@ -4383,10 +3987,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.7070876242227078,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_912_1",
@@ -4416,10 +4017,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.175703573902191,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_43_1",
@@ -4449,10 +4047,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.7897523326060902,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_924_1",
@@ -4482,10 +4077,7 @@
     "sourceBoundaryName": "Antarctic:Nazca",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.7720367615179913,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_980_1",
@@ -4515,10 +4107,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 4.161342418905597,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_997_1",
@@ -4548,10 +4137,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 4.403211219342526,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_658_1",
@@ -4581,10 +4167,7 @@
     "sourceBoundaryName": "African:Australian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.7823221409757894,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_901_1",
@@ -4614,10 +4197,7 @@
     "sourceBoundaryName": "Antarctic:Nazca",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.5315752295500027,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1096_1",
@@ -4647,10 +4227,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 4.989116297357796,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_878_1",
@@ -4680,10 +4257,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.6945985754973645,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_377_1",
@@ -4713,10 +4287,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.6411212936439514,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1154_1",
@@ -4746,10 +4317,7 @@
     "sourceBoundaryName": "North American:Pacific",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.116631350517254,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_854_1",
@@ -4779,10 +4347,7 @@
     "sourceBoundaryName": "Antarctic:Nazca",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.28599678067232,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1137_1",
@@ -4812,10 +4377,7 @@
     "sourceBoundaryName": "Eurasian:Indian",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 2.6364008740687326,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_96_1",
@@ -4845,10 +4407,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.893916357503122,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1070_1",
@@ -4878,10 +4437,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.46112940087874,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_913_1",
@@ -4911,10 +4467,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.063289251802942,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1014_1",
@@ -4944,10 +4497,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.832668840523297,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1033_1",
@@ -4977,10 +4527,7 @@
     "sourceBoundaryName": "South America:Scotia",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 4.285425710925212,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1147_1",
@@ -5010,10 +4557,7 @@
     "sourceBoundaryName": "Eurasian:African",
     "sourceBoundaryLabel": "Convergent Boundary",
     "sourceShapeLength": 2.940728600319314,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_584_1",
@@ -5043,10 +4587,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.515586475560462,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1129_1",
@@ -5076,10 +4617,7 @@
     "sourceBoundaryName": "Eurasian:Philippine",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.5538569542035163,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_926_1",
@@ -5109,10 +4647,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.2966159162678728,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_498_1",
@@ -5142,10 +4677,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.428538910302068,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_668_1",
@@ -5175,10 +4707,7 @@
     "sourceBoundaryName": "African:Australian",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.4710437916854096,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_639_1",
@@ -5208,10 +4737,7 @@
     "sourceBoundaryName": "African:Australian",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.444008355077709,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_835_1",
@@ -5241,10 +4767,7 @@
     "sourceBoundaryName": "Pacific:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.620353472032762,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_535_1",
@@ -5274,10 +4797,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.3249924379960225,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_904_1",
@@ -5307,10 +4827,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.7040068531671824,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_203_1",
@@ -5340,10 +4857,7 @@
     "sourceBoundaryName": "Eurasian:African",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.6011350770458948,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1041_1",
@@ -5373,10 +4887,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.6539185078411327,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_86_1",
@@ -5406,10 +4917,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.6819799146443057,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1059_1",
@@ -5439,10 +4947,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.9657925769760825,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_898_1",
@@ -5472,10 +4977,7 @@
     "sourceBoundaryName": "Antarctic:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.255728636956184,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1069_1",
@@ -5505,10 +5007,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.4493889582605837,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_553_1",
@@ -5538,10 +5037,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.2133742760194854,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1114_1",
@@ -5571,10 +5067,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 4.765239511237391,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_178_1",
@@ -5604,10 +5097,7 @@
     "sourceBoundaryName": "Eurasian:African",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.759397532861033,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_826_1",
@@ -5637,10 +5127,7 @@
     "sourceBoundaryName": "Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.296815989806674,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_841_1",
@@ -5670,10 +5157,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.647731778480097,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_955_1",
@@ -5703,10 +5187,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.228434302480736,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_925_1",
@@ -5736,10 +5217,7 @@
     "sourceBoundaryName": "Antarctic:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.183641394581971,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_803_1",
@@ -5769,10 +5247,7 @@
     "sourceBoundaryName": "Pacific:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.1528249967008435,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1152_1",
@@ -5802,10 +5277,7 @@
     "sourceBoundaryName": "Pacific:Juan de Fuca",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.7959768953274713,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_9_1",
@@ -5835,10 +5307,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 11.384433402950544,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_617_1",
@@ -5868,10 +5337,7 @@
     "sourceBoundaryName": "Pacific:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.1231353916830256,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1008_1",
@@ -5901,10 +5367,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.1142599967160947,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1179_1",
@@ -5934,10 +5397,7 @@
     "sourceBoundaryName": null,
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.0875363985869106,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1015_1",
@@ -5967,10 +5427,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.740395122973397,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1161_1",
@@ -6000,10 +5457,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.0942408371388503,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_453_1",
@@ -6033,10 +5487,7 @@
     "sourceBoundaryName": "African:Indian",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.063165517667823,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_814_1",
@@ -6066,10 +5517,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.243962876618806,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_906_1",
@@ -6099,10 +5547,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.489457047879158,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1056_1",
@@ -6132,10 +5577,7 @@
     "sourceBoundaryName": "Pacific:Australian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.1550223331477647,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_532_1",
@@ -6165,10 +5607,7 @@
     "sourceBoundaryName": "Pacific:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.013904556100147,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1156_1",
@@ -6198,10 +5637,7 @@
     "sourceBoundaryName": "North American:Pacific",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.1507271662973952,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_611_1",
@@ -6231,10 +5667,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.0285493348924257,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_899_1",
@@ -6264,10 +5697,7 @@
     "sourceBoundaryName": "Antarctic:Nazca",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.6420036600707033,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_323_1",
@@ -6297,10 +5727,7 @@
     "sourceBoundaryName": "Pacific:Cocos",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.086789352214346,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_318_1",
@@ -6330,10 +5757,7 @@
     "sourceBoundaryName": "North American:Caribbean",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 2.090013363430172,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1115_1",
@@ -6363,10 +5787,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.452053457537552,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_943_1",
@@ -6396,10 +5817,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.8777945638605194,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_949_1",
@@ -6429,10 +5847,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.1520153380709237,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_36_1",
@@ -6462,10 +5877,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.6715826005409666,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_308_1",
@@ -6495,10 +5907,7 @@
     "sourceBoundaryName": "Indian:Arabian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.9690345154930298,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_986_1",
@@ -6528,10 +5937,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.055973107187164,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1003_1",
@@ -6561,10 +5967,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.0600218546727187,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_962_1",
@@ -6594,10 +5997,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.536990439334673,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_993_1",
@@ -6627,10 +6027,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.875622659980499,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_910_1",
@@ -6660,10 +6057,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.922929443524869,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1106_1",
@@ -6693,10 +6087,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.8538698542942695,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_433_1",
@@ -6726,10 +6117,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.921465304002335,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_456_1",
@@ -6759,10 +6147,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.9026829764801283,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_915_1",
@@ -6792,10 +6177,7 @@
     "sourceBoundaryName": "Antarctic:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.8956605380606621,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_455_1",
@@ -6825,10 +6207,7 @@
     "sourceBoundaryName": "African:Indian",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.8719147684370125,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_277_1",
@@ -6858,10 +6237,7 @@
     "sourceBoundaryName": "Eurasian:Arabian",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 1.8940840583102596,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_304_1",
@@ -6891,10 +6267,7 @@
     "sourceBoundaryName": "North American:Caribbean",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.970860833275641,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_468_1",
@@ -6924,10 +6297,7 @@
     "sourceBoundaryName": "Nazca:Cocos",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.8388994723098575,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_555_1",
@@ -6957,10 +6327,7 @@
     "sourceBoundaryName": "Pacific:Nazca",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.816415999298092,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_944_1",
@@ -6990,10 +6357,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.8458682292988071,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1000_1",
@@ -7023,10 +6387,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.3584950793308153,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_771_1",
@@ -7056,10 +6417,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.8060390437307605,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_369_1",
@@ -7089,10 +6447,7 @@
     "sourceBoundaryName": "African:Arabian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.8004480307016415,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_816_1",
@@ -7122,10 +6477,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.785431368555888,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1024_1",
@@ -7155,10 +6507,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.9349742866410986,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_413_1",
@@ -7188,10 +6537,7 @@
     "sourceBoundaryName": "Pacific:Cocos",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.7710123858949185,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_528_1",
@@ -7221,10 +6567,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.7669124301148567,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1048_1",
@@ -7254,10 +6597,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.021180472391166,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1047_1",
@@ -7287,10 +6627,7 @@
     "sourceBoundaryName": "South American:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 3.0815931503036396,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_446_1",
@@ -7320,10 +6657,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.739003013520319,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_965_1",
@@ -7353,10 +6687,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.5586269891740403,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_34_1",
@@ -7386,10 +6717,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.364049510702227,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_457_1",
@@ -7419,10 +6747,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.6909833193352335,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1026_1",
@@ -7452,10 +6777,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.3748116024589976,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_430_1",
@@ -7485,10 +6807,7 @@
     "sourceBoundaryName": "Pacific:Cocos",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.681574967434345,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_636_1",
@@ -7518,10 +6837,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.6805578335242706,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_642_1",
@@ -7551,10 +6867,7 @@
     "sourceBoundaryName": "Pacific:Nazca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.674200241089842,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_350_1",
@@ -7584,10 +6897,7 @@
     "sourceBoundaryName": "Indian:Arabian",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.7238269661757664,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_51_1",
@@ -7617,10 +6927,7 @@
     "sourceBoundaryName": "Eurasian:North American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.262469035188969,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1128_1",
@@ -7650,10 +6957,7 @@
     "sourceBoundaryName": "Eurasian:Philippine",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.8045249795922225,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_700_1",
@@ -7683,10 +6987,7 @@
     "sourceBoundaryName": "African:Australian",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.69121160835233,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_142_1",
@@ -7716,10 +7017,7 @@
     "sourceBoundaryName": "Pacific:Juan de Fuca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.7349141200862763,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_608_1",
@@ -7749,10 +7047,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.6220568090005782,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1117_1",
@@ -7782,10 +7077,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.217359512721826,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1088_1",
@@ -7815,10 +7107,7 @@
     "sourceBoundaryName": "Antarctic:Scotia",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 3.051938052148621,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_398_1",
@@ -7848,10 +7137,7 @@
     "sourceBoundaryName": "African:Arabian",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.6324926806992062,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1095_1",
@@ -7881,10 +7167,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.194716084989051,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_883_1",
@@ -7914,10 +7197,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.7266905332891298,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_337_1",
@@ -7947,10 +7227,7 @@
     "sourceBoundaryName": "African:South American",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.6463139433177942,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1087_1",
@@ -7980,10 +7257,7 @@
     "sourceBoundaryName": "Antarctic:Scotia",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.5890233953242707,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1109_1",
@@ -8013,10 +7287,7 @@
     "sourceBoundaryName": "Pacific:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 2.8604233621852044,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_984_1",
@@ -8046,10 +7317,7 @@
     "sourceBoundaryName": "Australian:Antarctic",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.568119643236836,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_1141_1",
@@ -8079,10 +7347,7 @@
     "sourceBoundaryName": "Eurasian:Indian",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.7640070115453235,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_917_1",
@@ -8112,10 +7377,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 2.1193819206168483,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_202_1",
@@ -8145,10 +7407,7 @@
     "sourceBoundaryName": "Eurasian:African",
     "sourceBoundaryLabel": "Other",
     "sourceShapeLength": 1.8023912956556094,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_764_1",
@@ -8178,10 +7437,7 @@
     "sourceBoundaryName": "African:Antarctic",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.7281286356894083,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_501_1",
@@ -8211,10 +7467,7 @@
     "sourceBoundaryName": "Nazca:Cocos",
     "sourceBoundaryLabel": "Transform Boundary",
     "sourceShapeLength": 1.52263016935976,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   },
   {
     "id": "usgs_plate_boundary_94_1",
@@ -8244,9 +7497,6 @@
     "sourceBoundaryName": "Pacific:Juan de Fuca",
     "sourceBoundaryLabel": "Divergent Boundary",
     "sourceShapeLength": 1.7565222569359755,
-    "sourceName": "USGS Tectonic Plate Boundaries",
-    "sourceReference": "eq/map_plateboundaries/MapServer/1",
-    "sourceModel": "PB2002",
-    "sourceModelYear": 2003
+    "sourceName": "USGS Tectonic Plate Boundaries"
   }
 ]
