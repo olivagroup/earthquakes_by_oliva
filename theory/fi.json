@@ -1,6 +1,6 @@
 [
 {
-"idEnglish":"theory_earth_structure_001",
+"id":"theory_earth_structure_001",
 "categoryId":"earth_structure",
 "categoryName":"Maan rakenne",
 "title":"Maan sisällä",
@@ -15,7 +15,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earth_structure_002",
+"id":"theory_earth_structure_002",
 "categoryId":"earth_structure",
 "categoryName":"Maan rakenne",
 "title":"Maankuori",
@@ -30,7 +30,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earth_structure_003",
+"id":"theory_earth_structure_003",
 "categoryId":"earth_structure",
 "categoryName":"Maan rakenne",
 "title":"Maan vaippa",
@@ -45,7 +45,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earth_structure_004",
+"id":"theory_earth_structure_004",
 "categoryId":"earth_structure",
 "categoryName":"Maan rakenne",
 "title":"Maan ydin",
@@ -60,7 +60,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earth_structure_005",
+"id":"theory_earth_structure_005",
 "categoryId":"earth_structure",
 "categoryName":"Maan rakenne",
 "title":"Litosfääri",
@@ -75,7 +75,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earth_structure_006",
+"id":"theory_earth_structure_006",
 "categoryId":"earth_structure",
 "categoryName":"Maan rakenne",
 "title":"Astenosfääri",
@@ -90,7 +90,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earth_structure_007",
+"id":"theory_earth_structure_007",
 "categoryId":"earth_structure",
 "categoryName":"Maan rakenne",
 "title":"Mistä tiedämme, mitä maan sisällä on",
@@ -105,7 +105,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_tectonics_001",
+"id":"theory_plate_tectonics_001",
 "categoryId":"plate_tectonics",
 "categoryName":"Laattatektoniikka",
 "title":"Mikä on laattatektoniikka",
@@ -120,7 +120,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_tectonics_002",
+"id":"theory_plate_tectonics_002",
 "categoryId":"plate_tectonics",
 "categoryName":"Laattatektoniikka",
 "title":"Suuret tektoniset laatat",
@@ -135,7 +135,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_tectonics_003",
+"id":"theory_plate_tectonics_003",
 "categoryId":"plate_tectonics",
 "categoryName":"Laattatektoniikka",
 "title":"Miten mannerlaatat liikkuvat",
@@ -150,7 +150,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_tectonics_004",
+"id":"theory_plate_tectonics_004",
 "categoryId":"plate_tectonics",
 "categoryName":"Laattatektoniikka",
 "title":"Mannerliikunnot",
@@ -165,7 +165,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_tectonics_005",
+"id":"theory_plate_tectonics_005",
 "categoryId":"plate_tectonics",
 "categoryName":"Laattatektoniikka",
 "title":"Merenpohjan leviäminen",
@@ -180,7 +180,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_tectonics_006",
+"id":"theory_plate_tectonics_006",
 "categoryId":"plate_tectonics",
 "categoryName":"Laattatektoniikka",
 "title":"Subduktio",
@@ -195,7 +195,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_tectonics_007",
+"id":"theory_plate_tectonics_007",
 "categoryId":"plate_tectonics",
 "categoryName":"Laattatektoniikka",
 "title":"Laattatektoniikka ja maanjäristykset",
@@ -210,7 +210,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_tectonics_008",
+"id":"theory_plate_tectonics_008",
 "categoryId":"plate_tectonics",
 "categoryName":"Laattatektoniikka",
 "title":"Laattatektoniikka ja tulivuoret",
@@ -225,7 +225,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_tectonics_009",
+"id":"theory_plate_tectonics_009",
 "categoryId":"plate_tectonics",
 "categoryName":"Laattatektoniikka",
 "title":"Miten levyn liikettä mitataan",
@@ -240,7 +240,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_tectonics_010",
+"id":"theory_plate_tectonics_010",
 "categoryId":"plate_tectonics",
 "categoryName":"Laattatektoniikka",
 "title":"Maan muuttuva pinta",
@@ -255,7 +255,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_boundaries_001",
+"id":"theory_plate_boundaries_001",
 "categoryId":"plate_boundaries",
 "categoryName":"Levyrajat",
 "title":"Mitä ovat laattarajat",
@@ -270,7 +270,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_boundaries_002",
+"id":"theory_plate_boundaries_002",
 "categoryId":"plate_boundaries",
 "categoryName":"Levyrajat",
 "title":"Konvergenttien laattojen rajat",
@@ -285,7 +285,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_boundaries_003",
+"id":"theory_plate_boundaries_003",
 "categoryId":"plate_boundaries",
 "categoryName":"Levyrajat",
 "title":"Valtamerten ja mannerten konvergenssi",
@@ -300,7 +300,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_boundaries_004",
+"id":"theory_plate_boundaries_004",
 "categoryId":"plate_boundaries",
 "categoryName":"Levyrajat",
 "title":"Valtamerten ja valtamerten konvergenssi",
@@ -315,7 +315,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_boundaries_005",
+"id":"theory_plate_boundaries_005",
 "categoryId":"plate_boundaries",
 "categoryName":"Levyrajat",
 "title":"Mannerten välinen törmäys",
@@ -330,7 +330,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_boundaries_006",
+"id":"theory_plate_boundaries_006",
 "categoryId":"plate_boundaries",
 "categoryName":"Levyrajat",
 "title":"Eriävät laattarajat",
@@ -345,7 +345,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_boundaries_007",
+"id":"theory_plate_boundaries_007",
 "categoryId":"plate_boundaries",
 "categoryName":"Levyrajat",
 "title":"Muunna laattarajoja",
@@ -360,7 +360,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_plate_boundaries_008",
+"id":"theory_plate_boundaries_008",
 "categoryId":"plate_boundaries",
 "categoryName":"Levyrajat",
 "title":"Laattojen rajat ja maanjäristyksen syvyys",
@@ -375,7 +375,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_faults_001",
+"id":"theory_faults_001",
 "categoryId":"faults",
 "categoryName":"Viat",
 "title":"Mikä on vika",
@@ -390,7 +390,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_faults_002",
+"id":"theory_faults_002",
 "categoryId":"faults",
 "categoryName":"Viat",
 "title":"Normaalit viat",
@@ -405,7 +405,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_faults_003",
+"id":"theory_faults_003",
 "categoryId":"faults",
 "categoryName":"Viat",
 "title":"Käänteiset viat",
@@ -420,7 +420,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_faults_004",
+"id":"theory_faults_004",
 "categoryId":"faults",
 "categoryName":"Viat",
 "title":"Työntövoiman viat",
@@ -435,7 +435,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_faults_005",
+"id":"theory_faults_005",
 "categoryId":"faults",
 "categoryName":"Viat",
 "title":"Lakkoliukuvirheet",
@@ -450,7 +450,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_faults_006",
+"id":"theory_faults_006",
 "categoryId":"faults",
 "categoryName":"Viat",
 "title":"Vinot liukumisvirheet",
@@ -465,7 +465,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_faults_007",
+"id":"theory_faults_007",
 "categoryId":"faults",
 "categoryName":"Viat",
 "title":"Vikalukitus ja stressi",
@@ -480,7 +480,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_faults_008",
+"id":"theory_faults_008",
 "categoryId":"faults",
 "categoryName":"Viat",
 "title":"Vian repeämä",
@@ -495,7 +495,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_faults_009",
+"id":"theory_faults_009",
 "categoryId":"faults",
 "categoryName":"Viat",
 "title":"Pinnan repeämä",
@@ -510,7 +510,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_faults_010",
+"id":"theory_faults_010",
 "categoryId":"faults",
 "categoryName":"Viat",
 "title":"Aktiiviset ja inaktiiviset viat",
@@ -525,7 +525,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_001",
+"id":"theory_how_earthquakes_happen_001",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Miten maanjäristykset tapahtuvat",
 "title":"Miten maanjäristys alkaa",
@@ -540,7 +540,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_002",
+"id":"theory_how_earthquakes_happen_002",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Miten maanjäristykset tapahtuvat",
 "title":"Maan sisäinen stressi",
@@ -555,7 +555,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_003",
+"id":"theory_how_earthquakes_happen_003",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Miten maanjäristykset tapahtuvat",
 "title":"Elastinen venymä",
@@ -570,7 +570,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_004",
+"id":"theory_how_earthquakes_happen_004",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Miten maanjäristykset tapahtuvat",
 "title":"Elastinen palautuminen",
@@ -585,7 +585,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_005",
+"id":"theory_how_earthquakes_happen_005",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Miten maanjäristykset tapahtuvat",
 "title":"Maanjäristyksen repeämä",
@@ -600,7 +600,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_006",
+"id":"theory_how_earthquakes_happen_006",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Miten maanjäristykset tapahtuvat",
 "title":"Maanjäristyksen vapauttama energia",
@@ -615,7 +615,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_007",
+"id":"theory_how_earthquakes_happen_007",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Miten maanjäristykset tapahtuvat",
 "title":"Miksi maa tärisee",
@@ -630,7 +630,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_008",
+"id":"theory_how_earthquakes_happen_008",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Miten maanjäristykset tapahtuvat",
 "title":"Miksi maanjäristykset loppuvat",
@@ -645,7 +645,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_009",
+"id":"theory_how_earthquakes_happen_009",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Miten maanjäristykset tapahtuvat",
 "title":"Miksi maanjäristyksiä ei voida ennustaa tarkasti",
@@ -660,7 +660,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_epicenter_hypocenter_001",
+"id":"theory_epicenter_hypocenter_001",
 "categoryId":"epicenter_hypocenter",
 "categoryName":"Episentri ja Hyposentri",
 "title":"Mikä on hypokeskus",
@@ -675,7 +675,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_epicenter_hypocenter_002",
+"id":"theory_epicenter_hypocenter_002",
 "categoryId":"epicenter_hypocenter",
 "categoryName":"Episentri ja Hyposentri",
 "title":"Mikä on episentrumi",
@@ -690,7 +690,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_epicenter_hypocenter_003",
+"id":"theory_epicenter_hypocenter_003",
 "categoryId":"epicenter_hypocenter",
 "categoryName":"Episentri ja Hyposentri",
 "title":"Episentri ja Hyposentri",
@@ -705,7 +705,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_epicenter_hypocenter_004",
+"id":"theory_epicenter_hypocenter_004",
 "categoryId":"epicenter_hypocenter",
 "categoryName":"Episentri ja Hyposentri",
 "title":"Miten maanjäristyspaikat löydetään",
@@ -720,7 +720,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_epicenter_hypocenter_005",
+"id":"theory_epicenter_hypocenter_005",
 "categoryId":"epicenter_hypocenter",
 "categoryName":"Episentri ja Hyposentri",
 "title":"Maanjäristyksen syvyyden ja sijainnin epävarmuus",
@@ -735,7 +735,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_seismic_waves_001",
+"id":"theory_seismic_waves_001",
 "categoryId":"seismic_waves",
 "categoryName":"Seismiset aallot",
 "title":"Mitä ovat seismiset aallot",
@@ -750,7 +750,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_seismic_waves_002",
+"id":"theory_seismic_waves_002",
 "categoryId":"seismic_waves",
 "categoryName":"Seismiset aallot",
 "title":"Kehon aallot",
@@ -765,7 +765,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_seismic_waves_003",
+"id":"theory_seismic_waves_003",
 "categoryId":"seismic_waves",
 "categoryName":"Seismiset aallot",
 "title":"P-aallot",
@@ -780,7 +780,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_seismic_waves_004",
+"id":"theory_seismic_waves_004",
 "categoryId":"seismic_waves",
 "categoryName":"Seismiset aallot",
 "title":"S-aallot",
@@ -795,7 +795,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_seismic_waves_005",
+"id":"theory_seismic_waves_005",
 "categoryId":"seismic_waves",
 "categoryName":"Seismiset aallot",
 "title":"Pinta-aallot",
@@ -810,7 +810,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_seismic_waves_006",
+"id":"theory_seismic_waves_006",
 "categoryId":"seismic_waves",
 "categoryName":"Seismiset aallot",
 "title":"Rakkausaallot",
@@ -825,7 +825,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_seismic_waves_007",
+"id":"theory_seismic_waves_007",
 "categoryId":"seismic_waves",
 "categoryName":"Seismiset aallot",
 "title":"Rayleigh-aallot",
@@ -840,7 +840,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_seismic_waves_008",
+"id":"theory_seismic_waves_008",
 "categoryId":"seismic_waves",
 "categoryName":"Seismiset aallot",
 "title":"Seismisen aallon nopeus",
@@ -855,7 +855,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_seismic_waves_009",
+"id":"theory_seismic_waves_009",
 "categoryId":"seismic_waves",
 "categoryName":"Seismiset aallot",
 "title":"Heijastus ja taittuminen",
@@ -870,7 +870,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_seismic_waves_010",
+"id":"theory_seismic_waves_010",
 "categoryId":"seismic_waves",
 "categoryName":"Seismiset aallot",
 "title":"Seismiset aallot ja maapallon rakenne",
@@ -885,7 +885,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_001",
+"id":"theory_measuring_earthquakes_001",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Maanjäristysten mittaaminen",
 "title":"Miten maanjäristyksiä mitataan",
@@ -900,7 +900,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_002",
+"id":"theory_measuring_earthquakes_002",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Maanjäristysten mittaaminen",
 "title":"Seismo metriä",
@@ -915,7 +915,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_003",
+"id":"theory_measuring_earthquakes_003",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Maanjäristysten mittaaminen",
 "title":"Seismo grammaa",
@@ -930,7 +930,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_004",
+"id":"theory_measuring_earthquakes_004",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Maanjäristysten mittaaminen",
 "title":"Maanjäristyksen magnitudi",
@@ -945,7 +945,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_005",
+"id":"theory_measuring_earthquakes_005",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Maanjäristysten mittaaminen",
 "title":"Richterin asteikko",
@@ -960,7 +960,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_006",
+"id":"theory_measuring_earthquakes_006",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Maanjäristysten mittaaminen",
 "title":"Momentin suuruus",
@@ -975,7 +975,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_007",
+"id":"theory_measuring_earthquakes_007",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Maanjäristysten mittaaminen",
 "title":"Maanjäristyksen voimakkuus",
@@ -990,7 +990,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_008",
+"id":"theory_measuring_earthquakes_008",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Maanjäristysten mittaaminen",
 "title":"Muokattu Mercallin intensiteetti",
@@ -1005,7 +1005,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_009",
+"id":"theory_measuring_earthquakes_009",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Maanjäristysten mittaaminen",
 "title":"Suuruus ja intensiteetti",
@@ -1020,7 +1020,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_010",
+"id":"theory_measuring_earthquakes_010",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Maanjäristysten mittaaminen",
 "title":"Kuinka maanjäristysmittauksia päivitetään",
@@ -1035,7 +1035,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_magnitude_intensity_001",
+"id":"theory_magnitude_intensity_001",
 "categoryId":"magnitude_intensity",
 "categoryName":"Suuruus ja intensiteetti",
 "title":"Maanjäristyksen voimakkuuden ymmärtäminen",
@@ -1050,7 +1050,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_magnitude_intensity_002",
+"id":"theory_magnitude_intensity_002",
 "categoryId":"magnitude_intensity",
 "categoryName":"Suuruus ja intensiteetti",
 "title":"Logaritminen suuruusasteikko",
@@ -1065,7 +1065,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_magnitude_intensity_003",
+"id":"theory_magnitude_intensity_003",
 "categoryId":"magnitude_intensity",
 "categoryName":"Suuruus ja intensiteetti",
 "title":"Maanjäristyksen voimakkuuden ymmärtäminen",
@@ -1080,7 +1080,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_magnitude_intensity_004",
+"id":"theory_magnitude_intensity_004",
 "categoryId":"magnitude_intensity",
 "categoryName":"Suuruus ja intensiteetti",
 "title":"Suuruus verrattuna intensiteettiin",
@@ -1095,7 +1095,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_magnitude_intensity_005",
+"id":"theory_magnitude_intensity_005",
 "categoryId":"magnitude_intensity",
 "categoryName":"Suuruus ja intensiteetti",
 "title":"Muokattu Mercalli-intensiteettiasteikko",
@@ -1110,7 +1110,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_magnitude_intensity_006",
+"id":"theory_magnitude_intensity_006",
 "categoryId":"magnitude_intensity",
 "categoryName":"Suuruus ja intensiteetti",
 "title":"Miksi tärinä vaihtelee sijainnin mukaan",
@@ -1125,7 +1125,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_magnitude_intensity_007",
+"id":"theory_magnitude_intensity_007",
 "categoryId":"magnitude_intensity",
 "categoryName":"Suuruus ja intensiteetti",
 "title":"Maanjäristyksen voimakkuus ja energia",
@@ -1140,7 +1140,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_magnitude_intensity_008",
+"id":"theory_magnitude_intensity_008",
 "categoryId":"magnitude_intensity",
 "categoryName":"Suuruus ja intensiteetti",
 "title":"Vahinko ei ole yhtä suuri kuin vaurio",
@@ -1155,7 +1155,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earthquake_detection_001",
+"id":"theory_earthquake_detection_001",
 "categoryId":"earthquake_detection",
 "categoryName":"Maanjäristyksen havaitseminen",
 "title":"Miten maanjäristykset havaitaan",
@@ -1170,7 +1170,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earthquake_detection_002",
+"id":"theory_earthquake_detection_002",
 "categoryId":"earthquake_detection",
 "categoryName":"Maanjäristyksen havaitseminen",
 "title":"Seismiset seurantaverkot",
@@ -1185,7 +1185,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earthquake_detection_003",
+"id":"theory_earthquake_detection_003",
 "categoryId":"earthquake_detection",
 "categoryName":"Maanjäristyksen havaitseminen",
 "title":"Automaattinen maanjäristyksen tunnistus",
@@ -1200,7 +1200,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earthquake_detection_004",
+"id":"theory_earthquake_detection_004",
 "categoryId":"earthquake_detection",
 "categoryName":"Maanjäristyksen havaitseminen",
 "title":"Maanjäristysten erottaminen muista värähtelyistä",
@@ -1215,7 +1215,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earthquake_detection_005",
+"id":"theory_earthquake_detection_005",
 "categoryId":"earthquake_detection",
 "categoryName":"Maanjäristyksen havaitseminen",
 "title":"Maanjäristyksen varhainen varoitus",
@@ -1230,7 +1230,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earthquake_detection_006",
+"id":"theory_earthquake_detection_006",
 "categoryId":"earthquake_detection",
 "categoryName":"Maanjäristyksen havaitseminen",
 "title":"Havainnosta maanjäristysraporttiin",
@@ -1245,7 +1245,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_001",
+"id":"theory_aftershocks_sequences_001",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Jälkijäristykset ja sekvenssit",
 "title":"Mitä ovat jälkijäristykset",
@@ -1260,7 +1260,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_002",
+"id":"theory_aftershocks_sequences_002",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Jälkijäristykset ja sekvenssit",
 "title":"Pääiskut ja esiiskut",
@@ -1275,7 +1275,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_003",
+"id":"theory_aftershocks_sequences_003",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Jälkijäristykset ja sekvenssit",
 "title":"Miksi jälkijäristyksiä tapahtuu",
@@ -1290,7 +1290,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_004",
+"id":"theory_aftershocks_sequences_004",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Jälkijäristykset ja sekvenssit",
 "title":"Miten jälkijäristykset muuttuvat ajan myötä",
@@ -1305,7 +1305,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_005",
+"id":"theory_aftershocks_sequences_005",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Jälkijäristykset ja sekvenssit",
 "title":"Maanjäristysparvet",
@@ -1320,7 +1320,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_006",
+"id":"theory_aftershocks_sequences_006",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Jälkijäristykset ja sekvenssit",
 "title":"Jälkijäristysten ennusteet",
@@ -1335,7 +1335,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_tsunamis_001",
+"id":"theory_tsunamis_001",
 "categoryId":"tsunamis",
 "categoryName":"Tsunamit",
 "title":"Mikä on tsunami",
@@ -1350,7 +1350,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, NOAA:n tsunamiohjelma"
 },
 {
-"idEnglish":"theory_tsunamis_002",
+"id":"theory_tsunamis_002",
 "categoryId":"tsunamis",
 "categoryName":"Tsunamit",
 "title":"Miten maanjäristykset aiheuttavat tsunameja",
@@ -1365,7 +1365,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, NOAA:n tsunamiohjelma"
 },
 {
-"idEnglish":"theory_tsunamis_003",
+"id":"theory_tsunamis_003",
 "categoryId":"tsunamis",
 "categoryName":"Tsunamit",
 "title":"Miten tsunamin aallot kulkevat",
@@ -1380,7 +1380,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, NOAA:n tsunamiohjelma"
 },
 {
-"idEnglish":"theory_tsunamis_004",
+"id":"theory_tsunamis_004",
 "categoryId":"tsunamis",
 "categoryName":"Tsunamit",
 "title":"Tsunamit lähellä rannikkoa",
@@ -1395,7 +1395,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, NOAA:n tsunamiohjelma"
 },
 {
-"idEnglish":"theory_tsunamis_005",
+"id":"theory_tsunamis_005",
 "categoryId":"tsunamis",
 "categoryName":"Tsunamit",
 "title":"Tsunamin havaitseminen ja varoitus",
@@ -1410,7 +1410,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, NOAA:n tsunamiohjelma"
 },
 {
-"idEnglish":"theory_tsunamis_006",
+"id":"theory_tsunamis_006",
 "categoryId":"tsunamis",
 "categoryName":"Tsunamit",
 "title":"Luonnon tsunamin varoitusmerkit",
@@ -1425,7 +1425,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, NOAA:n tsunamiohjelma"
 },
 {
-"idEnglish":"theory_tsunamis_007",
+"id":"theory_tsunamis_007",
 "categoryId":"tsunamis",
 "categoryName":"Tsunamit",
 "title":"Tsunamin turvallisuus",
@@ -1440,7 +1440,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, NOAA:n tsunamiohjelma"
 },
 {
-"idEnglish":"theory_secondary_hazards_001",
+"id":"theory_secondary_hazards_001",
 "categoryId":"secondary_hazards",
 "categoryName":"Toissijaiset vaarat",
 "title":"Mitä ovat toissijaiset maanjäristysvaarat",
@@ -1455,7 +1455,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_secondary_hazards_002",
+"id":"theory_secondary_hazards_002",
 "categoryId":"secondary_hazards",
 "categoryName":"Toissijaiset vaarat",
 "title":"Maanjäristys Maanvyörymät",
@@ -1470,7 +1470,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_secondary_hazards_003",
+"id":"theory_secondary_hazards_003",
 "categoryId":"secondary_hazards",
 "categoryName":"Toissijaiset vaarat",
 "title":"Maaperän nesteytyminen",
@@ -1485,7 +1485,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_secondary_hazards_004",
+"id":"theory_secondary_hazards_004",
 "categoryId":"secondary_hazards",
 "categoryName":"Toissijaiset vaarat",
 "title":"Maanjäristyspalot",
@@ -1500,7 +1500,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_secondary_hazards_005",
+"id":"theory_secondary_hazards_005",
 "categoryId":"secondary_hazards",
 "categoryName":"Toissijaiset vaarat",
 "title":"Pinnan repeämä ja maan muodonmuutos",
@@ -1515,7 +1515,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_secondary_hazards_006",
+"id":"theory_secondary_hazards_006",
 "categoryId":"secondary_hazards",
 "categoryName":"Toissijaiset vaarat",
 "title":"Tsunamit maanjäristysvaarana",
@@ -1530,7 +1530,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, NOAA:n tsunamiohjelma"
 },
 {
-"idEnglish":"theory_secondary_hazards_007",
+"id":"theory_secondary_hazards_007",
 "categoryId":"secondary_hazards",
 "categoryName":"Toissijaiset vaarat",
 "title":"Kaskadimaiset maanjäristysvaarat",
@@ -1545,7 +1545,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_earthquake_geography_001",
+"id":"theory_earthquake_geography_001",
 "categoryId":"earthquake_geography",
 "categoryName":"Maanjäristysten maantiede",
 "title":"Missä maanjäristyksiä esiintyy",
@@ -1560,7 +1560,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earthquake_geography_002",
+"id":"theory_earthquake_geography_002",
 "categoryId":"earthquake_geography",
 "categoryName":"Maanjäristysten maantiede",
 "title":"Tyynenmeren tulirengas",
@@ -1575,7 +1575,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earthquake_geography_003",
+"id":"theory_earthquake_geography_003",
 "categoryId":"earthquake_geography",
 "categoryName":"Maanjäristysten maantiede",
 "title":"Maanjäristykset mannerlaattojen reunoilla",
@@ -1590,7 +1590,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earthquake_geography_004",
+"id":"theory_earthquake_geography_004",
 "categoryId":"earthquake_geography",
 "categoryName":"Maanjäristysten maantiede",
 "title":"Maanjäristykset mannerlaattojen sisällä",
@@ -1605,7 +1605,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_earthquake_geography_005",
+"id":"theory_earthquake_geography_005",
 "categoryId":"earthquake_geography",
 "categoryName":"Maanjäristysten maantiede",
 "title":"Maailmanlaajuisten maanjäristyskuvioiden lukeminen",
@@ -1620,7 +1620,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma"
 },
 {
-"idEnglish":"theory_building_engineering_001",
+"id":"theory_building_engineering_001",
 "categoryId":"building_engineering",
 "categoryName":"Rakentaminen ja suunnittelu",
 "title":"Miten maanjäristykset vaikuttavat rakennuksiin",
@@ -1635,7 +1635,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_building_engineering_002",
+"id":"theory_building_engineering_002",
 "categoryId":"building_engineering",
 "categoryName":"Rakentaminen ja suunnittelu",
 "title":"Maanjäristysnkestävä suunnittelu",
@@ -1650,7 +1650,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_building_engineering_003",
+"id":"theory_building_engineering_003",
 "categoryId":"building_engineering",
 "categoryName":"Rakentaminen ja suunnittelu",
 "title":"Pohjaeristys ja energian haihtuminen",
@@ -1665,7 +1665,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_building_engineering_004",
+"id":"theory_building_engineering_004",
 "categoryId":"building_engineering",
 "categoryName":"Rakentaminen ja suunnittelu",
 "title":"Rakennusmääräykset ja maanjäristysturvallisuus",
@@ -1680,7 +1680,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_building_engineering_005",
+"id":"theory_building_engineering_005",
 "categoryId":"building_engineering",
 "categoryName":"Rakentaminen ja suunnittelu",
 "title":"Olemassa olevien rakennusten jälkiasennus",
@@ -1695,7 +1695,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_preparedness_safety_001",
+"id":"theory_preparedness_safety_001",
 "categoryId":"preparedness_safety",
 "categoryName":"Valmius ja turvallisuus",
 "title":"Valmistautuminen ennen maanjäristystä",
@@ -1710,7 +1710,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_preparedness_safety_002",
+"id":"theory_preparedness_safety_002",
 "categoryId":"preparedness_safety",
 "categoryName":"Valmius ja turvallisuus",
 "title":"Pudota kansi ja pidä kiinni",
@@ -1725,7 +1725,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_preparedness_safety_003",
+"id":"theory_preparedness_safety_003",
 "categoryId":"preparedness_safety",
 "categoryName":"Valmius ja turvallisuus",
 "title":"Mitä tehdä maanjäristyksen jälkeen",
@@ -1740,7 +1740,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuusohjelma, NOAA:n tsunamiohjelma"
 },
 {
-"idEnglish":"theory_preparedness_safety_004",
+"id":"theory_preparedness_safety_004",
 "categoryId":"preparedness_safety",
 "categoryName":"Valmius ja turvallisuus",
 "title":"Maanjäristyksen hätäsuunnitelmat",
@@ -1755,7 +1755,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_historical_lessons_001",
+"id":"theory_historical_lessons_001",
 "categoryId":"historical_lessons",
 "categoryName":"Historialliset opetukset",
 "title":"Mitä menneet maanjäristykset opettavat meille",
@@ -1770,7 +1770,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_historical_lessons_002",
+"id":"theory_historical_lessons_002",
 "categoryId":"historical_lessons",
 "categoryName":"Historialliset opetukset",
 "title":"Miten maanjäristykset muuttivat rakennusten turvallisuutta",
@@ -1785,7 +1785,7 @@
 "sourceReferences":"USGS:n maanjäristysvaaraohjelma, FEMA:n maanjäristysturvallisuus"
 },
 {
-"idEnglish":"theory_historical_lessons_003",
+"id":"theory_historical_lessons_003",
 "categoryId":"historical_lessons",
 "categoryName":"Historialliset opetukset",
 "title":"Maanjäristyskatastrofeista oppiminen",
