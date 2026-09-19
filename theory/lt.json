@@ -1,6 +1,6 @@
 [
 {
-"idEnglish":"theory_earth_structure_001",
+"id":"theory_earth_structure_001",
 "categoryId":"earth_structure",
 "categoryName":"Žemės struktūra",
 "title":"Žemės viduje",
@@ -15,7 +15,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earth_structure_002",
+"id":"theory_earth_structure_002",
 "categoryId":"earth_structure",
 "categoryName":"Žemės struktūra",
 "title":"Žemės pluta",
@@ -30,7 +30,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earth_structure_003",
+"id":"theory_earth_structure_003",
 "categoryId":"earth_structure",
 "categoryName":"Žemės struktūra",
 "title":"Žemės mantija",
@@ -45,7 +45,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earth_structure_004",
+"id":"theory_earth_structure_004",
 "categoryId":"earth_structure",
 "categoryName":"Žemės struktūra",
 "title":"Žemės branduolys",
@@ -60,7 +60,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earth_structure_005",
+"id":"theory_earth_structure_005",
 "categoryId":"earth_structure",
 "categoryName":"Žemės struktūra",
 "title":"Litosfera",
@@ -75,7 +75,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earth_structure_006",
+"id":"theory_earth_structure_006",
 "categoryId":"earth_structure",
 "categoryName":"Žemės struktūra",
 "title":"Astenosfera",
@@ -90,7 +90,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earth_structure_007",
+"id":"theory_earth_structure_007",
 "categoryId":"earth_structure",
 "categoryName":"Žemės struktūra",
 "title":"Kaip mes žinome, kas yra Žemės viduje",
@@ -105,7 +105,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_tectonics_001",
+"id":"theory_plate_tectonics_001",
 "categoryId":"plate_tectonics",
 "categoryName":"Plokštės tektonika",
 "title":"Kas yra plokščių tektonika",
@@ -120,7 +120,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_tectonics_002",
+"id":"theory_plate_tectonics_002",
 "categoryId":"plate_tectonics",
 "categoryName":"Plokštės tektonika",
 "title":"Pagrindinės tektoninės plokštės",
@@ -135,7 +135,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_tectonics_003",
+"id":"theory_plate_tectonics_003",
 "categoryId":"plate_tectonics",
 "categoryName":"Plokštės tektonika",
 "title":"Kaip juda tektoninės plokštės",
@@ -150,7 +150,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_tectonics_004",
+"id":"theory_plate_tectonics_004",
 "categoryId":"plate_tectonics",
 "categoryName":"Plokštės tektonika",
 "title":"Žemynų dreifas",
@@ -165,7 +165,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_tectonics_005",
+"id":"theory_plate_tectonics_005",
 "categoryId":"plate_tectonics",
 "categoryName":"Plokštės tektonika",
 "title":"Jūros dugno plitimas",
@@ -180,7 +180,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_tectonics_006",
+"id":"theory_plate_tectonics_006",
 "categoryId":"plate_tectonics",
 "categoryName":"Plokštės tektonika",
 "title":"Subdukcija",
@@ -195,7 +195,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_tectonics_007",
+"id":"theory_plate_tectonics_007",
 "categoryId":"plate_tectonics",
 "categoryName":"Plokštės tektonika",
 "title":"Plokštės tektonika ir žemės drebėjimai",
@@ -210,7 +210,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_tectonics_008",
+"id":"theory_plate_tectonics_008",
 "categoryId":"plate_tectonics",
 "categoryName":"Plokštės tektonika",
 "title":"Plokštės tektonika ir ugnikalniai",
@@ -225,7 +225,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_tectonics_009",
+"id":"theory_plate_tectonics_009",
 "categoryId":"plate_tectonics",
 "categoryName":"Plokštės tektonika",
 "title":"Kaip matuojamas plokštės judėjimas",
@@ -240,7 +240,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_tectonics_010",
+"id":"theory_plate_tectonics_010",
 "categoryId":"plate_tectonics",
 "categoryName":"Plokštės tektonika",
 "title":"Besikeičiantis Žemės paviršius",
@@ -255,7 +255,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_boundaries_001",
+"id":"theory_plate_boundaries_001",
 "categoryId":"plate_boundaries",
 "categoryName":"Plokščių ribos",
 "title":"Kas yra plokščių ribos",
@@ -270,7 +270,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_boundaries_002",
+"id":"theory_plate_boundaries_002",
 "categoryId":"plate_boundaries",
 "categoryName":"Plokščių ribos",
 "title":"Konvergentinės plokščių ribos",
@@ -285,7 +285,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_boundaries_003",
+"id":"theory_plate_boundaries_003",
 "categoryId":"plate_boundaries",
 "categoryName":"Plokščių ribos",
 "title":"Vandenynų ir žemynų konvergencija",
@@ -300,7 +300,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_boundaries_004",
+"id":"theory_plate_boundaries_004",
 "categoryId":"plate_boundaries",
 "categoryName":"Plokščių ribos",
 "title":"Vandenynų ir vandenynų konvergencija",
@@ -315,7 +315,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_boundaries_005",
+"id":"theory_plate_boundaries_005",
 "categoryId":"plate_boundaries",
 "categoryName":"Plokščių ribos",
 "title":"Žemynų susidūrimas",
@@ -330,7 +330,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_boundaries_006",
+"id":"theory_plate_boundaries_006",
 "categoryId":"plate_boundaries",
 "categoryName":"Plokščių ribos",
 "title":"Skirtingos plokščių ribos",
@@ -345,7 +345,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_boundaries_007",
+"id":"theory_plate_boundaries_007",
 "categoryId":"plate_boundaries",
 "categoryName":"Plokščių ribos",
 "title":"Transformuoti plokščių ribas",
@@ -360,7 +360,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_plate_boundaries_008",
+"id":"theory_plate_boundaries_008",
 "categoryId":"plate_boundaries",
 "categoryName":"Plokščių ribos",
 "title":"Plokščių ribos ir žemės drebėjimo gylis",
@@ -375,7 +375,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_faults_001",
+"id":"theory_faults_001",
 "categoryId":"faults",
 "categoryName":"Gedimai",
 "title":"Kas yra gedimas",
@@ -390,7 +390,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_faults_002",
+"id":"theory_faults_002",
 "categoryId":"faults",
 "categoryName":"Gedimai",
 "title":"Normalūs gedimai",
@@ -405,7 +405,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_faults_003",
+"id":"theory_faults_003",
 "categoryId":"faults",
 "categoryName":"Gedimai",
 "title":"Atvirkštiniai gedimai",
@@ -420,7 +420,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_faults_004",
+"id":"theory_faults_004",
 "categoryId":"faults",
 "categoryName":"Gedimai",
 "title":"Traukos lūžiai",
@@ -435,7 +435,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_faults_005",
+"id":"theory_faults_005",
 "categoryId":"faults",
 "categoryName":"Gedimai",
 "title":"Strike slydimo gedimai",
@@ -450,7 +450,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_faults_006",
+"id":"theory_faults_006",
 "categoryId":"faults",
 "categoryName":"Gedimai",
 "title":"Įstrižiniai slydimo gedimai",
@@ -465,7 +465,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_faults_007",
+"id":"theory_faults_007",
 "categoryId":"faults",
 "categoryName":"Gedimai",
 "title":"Gedimų blokavimas ir įtempimas",
@@ -480,7 +480,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_faults_008",
+"id":"theory_faults_008",
 "categoryId":"faults",
 "categoryName":"Gedimai",
 "title":"Gedimo plyšimas",
@@ -495,7 +495,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_faults_009",
+"id":"theory_faults_009",
 "categoryId":"faults",
 "categoryName":"Gedimai",
 "title":"Paviršiaus plyšimas",
@@ -510,7 +510,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_faults_010",
+"id":"theory_faults_010",
 "categoryId":"faults",
 "categoryName":"Gedimai",
 "title":"Aktyvūs ir neaktyvūs gedimai",
@@ -525,7 +525,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_001",
+"id":"theory_how_earthquakes_happen_001",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Kaip vyksta žemės drebėjimai",
 "title":"Kaip prasideda žemės drebėjimas",
@@ -540,7 +540,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_002",
+"id":"theory_how_earthquakes_happen_002",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Kaip vyksta žemės drebėjimai",
 "title":"Stresas Žemės viduje",
@@ -555,7 +555,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_003",
+"id":"theory_how_earthquakes_happen_003",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Kaip vyksta žemės drebėjimai",
 "title":"Elastinė įtampa",
@@ -570,7 +570,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_004",
+"id":"theory_how_earthquakes_happen_004",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Kaip vyksta žemės drebėjimai",
 "title":"Elastingas atšokimas",
@@ -585,7 +585,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_005",
+"id":"theory_how_earthquakes_happen_005",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Kaip vyksta žemės drebėjimai",
 "title":"Žemės drebėjimo plyšimas",
@@ -600,7 +600,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_006",
+"id":"theory_how_earthquakes_happen_006",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Kaip vyksta žemės drebėjimai",
 "title":"Žemės drebėjimo išskiriama energija",
@@ -615,7 +615,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_007",
+"id":"theory_how_earthquakes_happen_007",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Kaip vyksta žemės drebėjimai",
 "title":"Kodėl dreba žemė",
@@ -630,7 +630,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_008",
+"id":"theory_how_earthquakes_happen_008",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Kaip vyksta žemės drebėjimai",
 "title":"Kodėl sustoja žemės drebėjimai",
@@ -645,7 +645,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_how_earthquakes_happen_009",
+"id":"theory_how_earthquakes_happen_009",
 "categoryId":"how_earthquakes_happen",
 "categoryName":"Kaip vyksta žemės drebėjimai",
 "title":"Kodėl žemės drebėjimų negalima tiksliai numatyti",
@@ -660,7 +660,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_epicenter_hypocenter_001",
+"id":"theory_epicenter_hypocenter_001",
 "categoryId":"epicenter_hypocenter",
 "categoryName":"Epicentras ir hipocentras",
 "title":"Kas yra hipocentras?",
@@ -675,7 +675,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_epicenter_hypocenter_002",
+"id":"theory_epicenter_hypocenter_002",
 "categoryId":"epicenter_hypocenter",
 "categoryName":"Epicentras ir hipocentras",
 "title":"Kas yra epicentras",
@@ -690,7 +690,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_epicenter_hypocenter_003",
+"id":"theory_epicenter_hypocenter_003",
 "categoryId":"epicenter_hypocenter",
 "categoryName":"Epicentras ir hipocentras",
 "title":"Epicentras ir hipocentras",
@@ -705,7 +705,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_epicenter_hypocenter_004",
+"id":"theory_epicenter_hypocenter_004",
 "categoryId":"epicenter_hypocenter",
 "categoryName":"Epicentras ir hipocentras",
 "title":"Kaip randamos žemės drebėjimų vietos",
@@ -720,7 +720,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_epicenter_hypocenter_005",
+"id":"theory_epicenter_hypocenter_005",
 "categoryId":"epicenter_hypocenter",
 "categoryName":"Epicentras ir hipocentras",
 "title":"Žemės drebėjimo gylis ir vietos neapibrėžtumas",
@@ -735,7 +735,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_seismic_waves_001",
+"id":"theory_seismic_waves_001",
 "categoryId":"seismic_waves",
 "categoryName":"Seisminės bangos",
 "title":"Kas yra seisminės bangos",
@@ -750,7 +750,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_seismic_waves_002",
+"id":"theory_seismic_waves_002",
 "categoryId":"seismic_waves",
 "categoryName":"Seisminės bangos",
 "title":"Kūno bangos",
@@ -765,7 +765,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_seismic_waves_003",
+"id":"theory_seismic_waves_003",
 "categoryId":"seismic_waves",
 "categoryName":"Seisminės bangos",
 "title":"P bangos",
@@ -780,7 +780,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_seismic_waves_004",
+"id":"theory_seismic_waves_004",
 "categoryId":"seismic_waves",
 "categoryName":"Seisminės bangos",
 "title":"S bangos",
@@ -795,7 +795,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_seismic_waves_005",
+"id":"theory_seismic_waves_005",
 "categoryId":"seismic_waves",
 "categoryName":"Seisminės bangos",
 "title":"Paviršiaus bangos",
@@ -810,7 +810,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_seismic_waves_006",
+"id":"theory_seismic_waves_006",
 "categoryId":"seismic_waves",
 "categoryName":"Seisminės bangos",
 "title":"Meilės bangos",
@@ -825,7 +825,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_seismic_waves_007",
+"id":"theory_seismic_waves_007",
 "categoryId":"seismic_waves",
 "categoryName":"Seisminės bangos",
 "title":"Rayleigh bangos",
@@ -840,7 +840,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_seismic_waves_008",
+"id":"theory_seismic_waves_008",
 "categoryId":"seismic_waves",
 "categoryName":"Seisminės bangos",
 "title":"Seisminių bangų greitis",
@@ -855,7 +855,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_seismic_waves_009",
+"id":"theory_seismic_waves_009",
 "categoryId":"seismic_waves",
 "categoryName":"Seisminės bangos",
 "title":"Atspindys ir refrakcija",
@@ -870,7 +870,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_seismic_waves_010",
+"id":"theory_seismic_waves_010",
 "categoryId":"seismic_waves",
 "categoryName":"Seisminės bangos",
 "title":"Seisminės bangos ir Žemės struktūra",
@@ -885,7 +885,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_001",
+"id":"theory_measuring_earthquakes_001",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Žemės drebėjimų matavimas",
 "title":"Kaip matuojami žemės drebėjimai",
@@ -900,7 +900,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_002",
+"id":"theory_measuring_earthquakes_002",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Žemės drebėjimų matavimas",
 "title":"Seisminis metrai",
@@ -915,7 +915,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_003",
+"id":"theory_measuring_earthquakes_003",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Žemės drebėjimų matavimas",
 "title":"Seisminis gramai",
@@ -930,7 +930,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_004",
+"id":"theory_measuring_earthquakes_004",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Žemės drebėjimų matavimas",
 "title":"Žemės drebėjimo stiprumas",
@@ -945,7 +945,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_005",
+"id":"theory_measuring_earthquakes_005",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Žemės drebėjimų matavimas",
 "title":"Richterio skalė",
@@ -960,7 +960,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_006",
+"id":"theory_measuring_earthquakes_006",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Žemės drebėjimų matavimas",
 "title":"Momento dydis",
@@ -975,7 +975,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_007",
+"id":"theory_measuring_earthquakes_007",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Žemės drebėjimų matavimas",
 "title":"Žemės drebėjimo intensyvumas",
@@ -990,7 +990,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_008",
+"id":"theory_measuring_earthquakes_008",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Žemės drebėjimų matavimas",
 "title":"Modifikuotas Mercalli intensyvumas",
@@ -1005,7 +1005,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_009",
+"id":"theory_measuring_earthquakes_009",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Žemės drebėjimų matavimas",
 "title":"Dydis ir intensyvumas",
@@ -1020,7 +1020,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_measuring_earthquakes_010",
+"id":"theory_measuring_earthquakes_010",
 "categoryId":"measuring_earthquakes",
 "categoryName":"Žemės drebėjimų matavimas",
 "title":"Kaip atnaujinami žemės drebėjimų matavimai",
@@ -1035,7 +1035,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_magnitude_intensity_001",
+"id":"theory_magnitude_intensity_001",
 "categoryId":"magnitude_intensity",
 "categoryName":"Dydis ir intensyvumas",
 "title":"Žemės drebėjimo stiprumo supratimas",
@@ -1050,7 +1050,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_magnitude_intensity_002",
+"id":"theory_magnitude_intensity_002",
 "categoryId":"magnitude_intensity",
 "categoryName":"Dydis ir intensyvumas",
 "title":"Logaritminė dydžio skalė",
@@ -1065,7 +1065,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_magnitude_intensity_003",
+"id":"theory_magnitude_intensity_003",
 "categoryId":"magnitude_intensity",
 "categoryName":"Dydis ir intensyvumas",
 "title":"Žemės drebėjimų intensyvumo supratimas",
@@ -1080,7 +1080,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_magnitude_intensity_004",
+"id":"theory_magnitude_intensity_004",
 "categoryId":"magnitude_intensity",
 "categoryName":"Dydis ir intensyvumas",
 "title":"Dydis, palyginti su intensyvumu",
@@ -1095,7 +1095,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_magnitude_intensity_005",
+"id":"theory_magnitude_intensity_005",
 "categoryId":"magnitude_intensity",
 "categoryName":"Dydis ir intensyvumas",
 "title":"Modifikuota Mercalli intensyvumo skalė",
@@ -1110,7 +1110,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_magnitude_intensity_006",
+"id":"theory_magnitude_intensity_006",
 "categoryId":"magnitude_intensity",
 "categoryName":"Dydis ir intensyvumas",
 "title":"Kodėl drebėjimas skiriasi priklausomai nuo vietos",
@@ -1125,7 +1125,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_magnitude_intensity_007",
+"id":"theory_magnitude_intensity_007",
 "categoryId":"magnitude_intensity",
 "categoryName":"Dydis ir intensyvumas",
 "title":"Žemės drebėjimo magnitudė ir energija",
@@ -1140,7 +1140,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_magnitude_intensity_008",
+"id":"theory_magnitude_intensity_008",
 "categoryId":"magnitude_intensity",
 "categoryName":"Dydis ir intensyvumas",
 "title":"Žalos dydis nėra lygus žalai",
@@ -1155,7 +1155,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earthquake_detection_001",
+"id":"theory_earthquake_detection_001",
 "categoryId":"earthquake_detection",
 "categoryName":"Žemės drebėjimų aptikimas",
 "title":"Kaip aptinkami žemės drebėjimai",
@@ -1170,7 +1170,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earthquake_detection_002",
+"id":"theory_earthquake_detection_002",
 "categoryId":"earthquake_detection",
 "categoryName":"Žemės drebėjimų aptikimas",
 "title":"Seisminio stebėjimo tinklai",
@@ -1185,7 +1185,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earthquake_detection_003",
+"id":"theory_earthquake_detection_003",
 "categoryId":"earthquake_detection",
 "categoryName":"Žemės drebėjimų aptikimas",
 "title":"Automatinis žemės drebėjimų aptikimas",
@@ -1200,7 +1200,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earthquake_detection_004",
+"id":"theory_earthquake_detection_004",
 "categoryId":"earthquake_detection",
 "categoryName":"Žemės drebėjimų aptikimas",
 "title":"Žemės drebėjimų atskyrimas nuo kitų vibracijų",
@@ -1215,7 +1215,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earthquake_detection_005",
+"id":"theory_earthquake_detection_005",
 "categoryId":"earthquake_detection",
 "categoryName":"Žemės drebėjimų aptikimas",
 "title":"Ankstyvasis įspėjimas apie žemės drebėjimą",
@@ -1230,7 +1230,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earthquake_detection_006",
+"id":"theory_earthquake_detection_006",
 "categoryId":"earthquake_detection",
 "categoryName":"Žemės drebėjimų aptikimas",
 "title":"Nuo aptikimo iki žemės drebėjimo ataskaitos",
@@ -1245,7 +1245,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_001",
+"id":"theory_aftershocks_sequences_001",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Pakartotiniai smūgiai ir sekos",
 "title":"Kas yra pakartotiniai smūgiai",
@@ -1260,7 +1260,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_002",
+"id":"theory_aftershocks_sequences_002",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Pakartotiniai smūgiai ir sekos",
 "title":"Pagrindiniai smūgiai ir priešsmūgiai",
@@ -1275,7 +1275,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_003",
+"id":"theory_aftershocks_sequences_003",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Pakartotiniai smūgiai ir sekos",
 "title":"Kodėl įvyksta pakartotiniai smūgiai",
@@ -1290,7 +1290,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_004",
+"id":"theory_aftershocks_sequences_004",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Pakartotiniai smūgiai ir sekos",
 "title":"Kaip laikui bėgant keičiasi pakartotiniai smūgiai",
@@ -1305,7 +1305,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_005",
+"id":"theory_aftershocks_sequences_005",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Pakartotiniai smūgiai ir sekos",
 "title":"Žemės drebėjimų spiečius",
@@ -1320,7 +1320,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_aftershocks_sequences_006",
+"id":"theory_aftershocks_sequences_006",
 "categoryId":"aftershocks_sequences",
 "categoryName":"Pakartotiniai smūgiai ir sekos",
 "title":"Po smūgių prognozės",
@@ -1335,7 +1335,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_tsunamis_001",
+"id":"theory_tsunamis_001",
 "categoryId":"tsunamis",
 "categoryName":"Cunamiai",
 "title":"Kas yra cunamis",
@@ -1350,7 +1350,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, NOAA cunamių programa"
 },
 {
-"idEnglish":"theory_tsunamis_002",
+"id":"theory_tsunamis_002",
 "categoryId":"tsunamis",
 "categoryName":"Cunamiai",
 "title":"Kaip žemės drebėjimai sukelia cunamius",
@@ -1365,7 +1365,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, NOAA cunamių programa"
 },
 {
-"idEnglish":"theory_tsunamis_003",
+"id":"theory_tsunamis_003",
 "categoryId":"tsunamis",
 "categoryName":"Cunamiai",
 "title":"Kaip keliauja cunamio bangos",
@@ -1380,7 +1380,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, NOAA cunamių programa"
 },
 {
-"idEnglish":"theory_tsunamis_004",
+"id":"theory_tsunamis_004",
 "categoryId":"tsunamis",
 "categoryName":"Cunamiai",
 "title":"Cunamiai netoli pakrantės",
@@ -1395,7 +1395,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, NOAA cunamių programa"
 },
 {
-"idEnglish":"theory_tsunamis_005",
+"id":"theory_tsunamis_005",
 "categoryId":"tsunamis",
 "categoryName":"Cunamiai",
 "title":"Cunamių aptikimas ir įspėjimas",
@@ -1410,7 +1410,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, NOAA cunamių programa"
 },
 {
-"idEnglish":"theory_tsunamis_006",
+"id":"theory_tsunamis_006",
 "categoryId":"tsunamis",
 "categoryName":"Cunamiai",
 "title":"Natūralūs cunamio įspėjamieji ženklai",
@@ -1425,7 +1425,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, NOAA cunamių programa"
 },
 {
-"idEnglish":"theory_tsunamis_007",
+"id":"theory_tsunamis_007",
 "categoryId":"tsunamis",
 "categoryName":"Cunamiai",
 "title":"Cunamio sauga",
@@ -1440,7 +1440,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, NOAA cunamių programa"
 },
 {
-"idEnglish":"theory_secondary_hazards_001",
+"id":"theory_secondary_hazards_001",
 "categoryId":"secondary_hazards",
 "categoryName":"Antriniai pavojai",
 "title":"Kas yra antriniai žemės drebėjimų pavojai?",
@@ -1455,7 +1455,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_secondary_hazards_002",
+"id":"theory_secondary_hazards_002",
 "categoryId":"secondary_hazards",
 "categoryName":"Antriniai pavojai",
 "title":"Žemės drebėjimas ir nuošliaužos",
@@ -1470,7 +1470,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_secondary_hazards_003",
+"id":"theory_secondary_hazards_003",
 "categoryId":"secondary_hazards",
 "categoryName":"Antriniai pavojai",
 "title":"Dirvožemio suskystinimas",
@@ -1485,7 +1485,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_secondary_hazards_004",
+"id":"theory_secondary_hazards_004",
 "categoryId":"secondary_hazards",
 "categoryName":"Antriniai pavojai",
 "title":"Žemės drebėjimų gaisrai",
@@ -1500,7 +1500,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_secondary_hazards_005",
+"id":"theory_secondary_hazards_005",
 "categoryId":"secondary_hazards",
 "categoryName":"Antriniai pavojai",
 "title":"Paviršiaus plyšimas ir grunto deformacija",
@@ -1515,7 +1515,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_secondary_hazards_006",
+"id":"theory_secondary_hazards_006",
 "categoryId":"secondary_hazards",
 "categoryName":"Antriniai pavojai",
 "title":"Cunamiai kaip žemės drebėjimų pavojus",
@@ -1530,7 +1530,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, NOAA cunamių programa"
 },
 {
-"idEnglish":"theory_secondary_hazards_007",
+"id":"theory_secondary_hazards_007",
 "categoryId":"secondary_hazards",
 "categoryName":"Antriniai pavojai",
 "title":"Kaskadinių žemės drebėjimų pavojai",
@@ -1545,7 +1545,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_earthquake_geography_001",
+"id":"theory_earthquake_geography_001",
 "categoryId":"earthquake_geography",
 "categoryName":"Žemės drebėjimų geografija",
 "title":"Kur vyksta žemės drebėjimai",
@@ -1560,7 +1560,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earthquake_geography_002",
+"id":"theory_earthquake_geography_002",
 "categoryId":"earthquake_geography",
 "categoryName":"Žemės drebėjimų geografija",
 "title":"Ramiojo vandenyno ugnies žiedas",
@@ -1575,7 +1575,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earthquake_geography_003",
+"id":"theory_earthquake_geography_003",
 "categoryId":"earthquake_geography",
 "categoryName":"Žemės drebėjimų geografija",
 "title":"Žemės drebėjimai plokščių ribose",
@@ -1590,7 +1590,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earthquake_geography_004",
+"id":"theory_earthquake_geography_004",
 "categoryId":"earthquake_geography",
 "categoryName":"Žemės drebėjimų geografija",
 "title":"Žemės drebėjimai tektoninėse plokštėse",
@@ -1605,7 +1605,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_earthquake_geography_005",
+"id":"theory_earthquake_geography_005",
 "categoryId":"earthquake_geography",
 "categoryName":"Žemės drebėjimų geografija",
 "title":"Pasaulinių žemės drebėjimų modelių skaitymas",
@@ -1620,7 +1620,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa"
 },
 {
-"idEnglish":"theory_building_engineering_001",
+"id":"theory_building_engineering_001",
 "categoryId":"building_engineering",
 "categoryName":"Statyba ir inžinerija",
 "title":"Kaip žemės drebėjimai veikia pastatus",
@@ -1635,7 +1635,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_building_engineering_002",
+"id":"theory_building_engineering_002",
 "categoryId":"building_engineering",
 "categoryName":"Statyba ir inžinerija",
 "title":"Atsparus žemės drebėjimams dizainas",
@@ -1650,7 +1650,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_building_engineering_003",
+"id":"theory_building_engineering_003",
 "categoryId":"building_engineering",
 "categoryName":"Statyba ir inžinerija",
 "title":"Bazinė izoliacija ir energijos išsklaidymas",
@@ -1665,7 +1665,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_building_engineering_004",
+"id":"theory_building_engineering_004",
 "categoryId":"building_engineering",
 "categoryName":"Statyba ir inžinerija",
 "title":"Statybos kodeksai ir seisminė sauga",
@@ -1680,7 +1680,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_building_engineering_005",
+"id":"theory_building_engineering_005",
 "categoryId":"building_engineering",
 "categoryName":"Statyba ir inžinerija",
 "title":"Esamų pastatų modernizavimas",
@@ -1695,7 +1695,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_preparedness_safety_001",
+"id":"theory_preparedness_safety_001",
 "categoryId":"preparedness_safety",
 "categoryName":"Pasirengimas ir saugumas",
 "title":"Pasiruošimas prieš žemės drebėjimą",
@@ -1710,7 +1710,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_preparedness_safety_002",
+"id":"theory_preparedness_safety_002",
 "categoryId":"preparedness_safety",
 "categoryName":"Pasirengimas ir saugumas",
 "title":"Nuleiskite dangtį ir laikykites",
@@ -1725,7 +1725,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_preparedness_safety_003",
+"id":"theory_preparedness_safety_003",
 "categoryId":"preparedness_safety",
 "categoryName":"Pasirengimas ir saugumas",
 "title":"Ką daryti po žemės drebėjimo",
@@ -1740,7 +1740,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga, NOAA cunamių programa"
 },
 {
-"idEnglish":"theory_preparedness_safety_004",
+"id":"theory_preparedness_safety_004",
 "categoryId":"preparedness_safety",
 "categoryName":"Pasirengimas ir saugumas",
 "title":"Žemės drebėjimo ekstremalių situacijų planavimas",
@@ -1755,7 +1755,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_historical_lessons_001",
+"id":"theory_historical_lessons_001",
 "categoryId":"historical_lessons",
 "categoryName":"Istorinės pamokos",
 "title":"Ko mus moko praeities žemės drebėjimai",
@@ -1770,7 +1770,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_historical_lessons_002",
+"id":"theory_historical_lessons_002",
 "categoryId":"historical_lessons",
 "categoryName":"Istorinės pamokos",
 "title":"Kaip žemės drebėjimai pakeitė pastatų saugumą",
@@ -1785,7 +1785,7 @@
 "sourceReferences":"USGS žemės drebėjimų pavojų programa, FEMA žemės drebėjimų sauga"
 },
 {
-"idEnglish":"theory_historical_lessons_003",
+"id":"theory_historical_lessons_003",
 "categoryId":"historical_lessons",
 "categoryName":"Istorinės pamokos",
 "title":"Mokymasis iš žemės drebėjimų katastrofų",
